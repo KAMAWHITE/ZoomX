@@ -1,0 +1,29 @@
+{
+    "en": {
+        "recently_posted": "New Releases",
+        "high_raiting": "High Rated",
+        "romantica": "Romantic Movies",
+        "detective": "Detective Movies",
+        "top_films": "Top 10 Movies",
+        "adventure": "Adventure Movies",
+        "top_cartoons": "Popular Cartoons"
+    },
+    "ru": {
+        "recently_posted": "Новинки кино",
+        "high_raiting": "Высокий рейтинг",
+        "romantica": "Романтические фильмы",
+        "detective": "Детективы",
+        "top_films": "Топ-10 фильмов",
+        "adventure": "Приключения",
+        "top_cartoons": "Популярные мультфильмы"
+    },
+    "uz": {
+        "recently_posted": "Yaqinda chiqqan filmlar",
+        "high_raiting": "Reytingi baland filmlar",
+        "romantica": "Romantika filmlar",
+        "detective": "Detektiv filmlar",
+        "top_films": "Top 10 filmlar",
+        "adventure": "Sarguzasht filmlar",
+        "top_cartoons": "Eng yaxshi multifilmlar"
+    }
+}

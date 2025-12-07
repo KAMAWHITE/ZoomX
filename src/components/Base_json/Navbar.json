@@ -1,0 +1,23 @@
+{
+    "uz": {
+        "home": "Asosiy",
+        "films": "Filmlar",
+        "serials": "Seriallar",
+        "saved": "Saqlanganlar",
+        "search_placeholder": "Qidiruv..."
+    },
+    "ru": {
+        "home": "Главный",
+        "films": "Фильмы",
+        "serials": "Сериалы",
+        "saved": "Сохраненные",
+        "search_placeholder": "Поиск..."
+    },
+    "en": {
+        "home": "Home",
+        "films": "Films",
+        "serials": "Serials",
+        "saved": "Saved",
+        "search_placeholder": "Search..."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "en": {
+        "saved": "Had been saved",
+        "films": "Films",
+        "serials": "Serials"
+    },
+    "ru": {
+        "saved": "Сохраненные",
+        "films": "Фильмы",
+        "serials": "Сериалы"
+    },
+    "uz": {
+        "saved": "Saqlanganlar",
+        "films": "Filmlar",
+        "serials": "Seriallar"
+    }
+}
