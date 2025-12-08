@@ -6,10 +6,10 @@ import { AppProvider } from "@/components/Language";
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>
+      <body className="overflow-x-hidden">
         <AppProvider>
           <Navbar />
-          <main className="min-h-screen pt-21 bg-gray-900">
+          <main className="overflow-x-hidden">
             {children}
           </main>
         </AppProvider>

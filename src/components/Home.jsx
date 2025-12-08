@@ -10,7 +10,7 @@ import TopTen from './Home/TopTen'
 
 const Home = () => {
     return (
-        <div className='px-5 bg-linear-to-r from-gray-900 via-blue-950 to-gray-900 lg:px-10 text-white'>
+        <div className='w-full px-5 bg-linear-to-r from-gray-900 via-blue-950 to-gray-900 lg:px-10 text-white'>
             <MainCarousel />
             <RecentlyPostedCarousel />
             <HighRating />
