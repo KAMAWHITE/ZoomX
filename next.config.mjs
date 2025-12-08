@@ -1,9 +1,10 @@
-/** @type {import('next').NextConfig} */
-
-const nextConfig = {
-  api: {
-    bodyParser: false,
+export default {
+  async rewrites() {
+    return [
+      {
+        source: '/api/:path*',
+        destination: '/api/:path*', // yoki kerakli routing
+      },
+    ];
   },
 };
-
-export default nextConfig;
